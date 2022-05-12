@@ -1,4 +1,4 @@
 # CronosMetaDataGenerator
-Generates Meta data and rarity for Cronos NFTs
+Generates Token Meta data for the Cronos Blockchain
 
 Work in progress (10/100)
